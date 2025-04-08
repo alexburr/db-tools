@@ -1,0 +1,1 @@
+db.stuff.find( { foo: /^bar$/i } );

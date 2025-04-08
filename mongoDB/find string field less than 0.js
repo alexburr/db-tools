@@ -1,0 +1,1 @@
+{ $expr: { $lt: [ { $toDouble: "$document.property" }, 0 ] } }
